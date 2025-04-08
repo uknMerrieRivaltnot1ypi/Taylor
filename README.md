@@ -9,3 +9,4 @@ Integration test results
 Project roadmap update
 Workflow monitoring update
 User access control revision
+Frontend caching strategy
