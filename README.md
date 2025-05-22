@@ -12,3 +12,4 @@ User access control revision
 Frontend caching strategy
 Data export functionality
 API response time analysis
+Cloud logging configuration
