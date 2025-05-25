@@ -3,3 +3,4 @@ System optimization note
 User feedback summary
 Version control update
 Security patch note
+Performance benchmark
