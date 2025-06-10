@@ -4,3 +4,4 @@ User feedback summary
 Version control update
 Security patch note
 Performance benchmark
+Code review comments
